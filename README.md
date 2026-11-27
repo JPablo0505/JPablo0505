@@ -2,7 +2,6 @@
 
 ### Hello There 👋
 
-<a href="https://github.com/JPablo0505"><img src="https://img.shields.io/badge/VER_EN-GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/juan-pablo-valencia-424692427/"><img src="https://img.shields.io/badge/MI_PERFIL-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:juanpisvalen@hotmail.com"><img src="https://img.shields.io/badge/CONTACTO-GMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
