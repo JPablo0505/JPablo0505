@@ -2,9 +2,9 @@
 
 ### Hello There 👋
 
-<a href="https://github.com/JPablo0505"><img src="https://img.shields.io/badge/SUPPORT_AT-GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/juan-pablo-valencia-424692427/"><img src="https://img.shields.io/badge/MY_PROFILE-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:juanpisvalen@hotmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/JPablo0505"><img src="https://img.shields.io/badge/VER_EN-GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/juan-pablo-valencia-424692427/"><img src="https://img.shields.io/badge/MI_PERFIL-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:juanpisvalen@hotmail.com"><img src="https://img.shields.io/badge/CONTACTO-GMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 Soy **Juan Pablo Valencia Martínez** 👨‍💻
 
@@ -32,7 +32,6 @@ Vivo en Medellín, Colombia y estudio **Ingeniería de Sistemas** en la **Univer
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat&logo=swagger&logoColor=white)
 - **Visión por Computador y ML:**
   ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
   ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
