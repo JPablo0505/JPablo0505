@@ -1,10 +1,10 @@
-<img align="right" width="185" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cat typing on computer animation" />
+<img align="right" width="185" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.gif" alt="Cat typing on computer animation" />
 
 ### Hello There 👋
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/JPablo0505)
-[![LinkedIn](https://img.shields.io/badge/MY%20PROFILE-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-valencia-424692427/)
-[![Gmail](https://img.shields.io/badge/CONTACT-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanpisvalen@hotmail.com)
+<a href="https://github.com/JPablo0505"><img src="https://img.shields.io/badge/SUPPORT_AT-GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/juan-pablo-valencia-424692427/"><img src="https://img.shields.io/badge/MY_PROFILE-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:juanpisvalen@hotmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 Soy **Juan Pablo Valencia Martínez** 👨‍💻
 
@@ -29,26 +29,26 @@ Vivo en Medellín, Colombia y estudio **Ingeniería de Sistemas** en la **Univer
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 - **Backend:**
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=flat&logo=swagger&logoColor=white)
+  ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-02569B?style=flat&logo=swagger&logoColor=white)
 - **Visión por Computador y ML:**
   ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
   ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-  ![XGBoost](https://img.shields.io/badge/XGBoost-EB4223?style=flat&logo=xgboost&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-EB4223?style=flat&logo=python&logoColor=white)
 - **Bases de Datos Relacionales:**
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 - **QA y Control de Versiones:**
-  ![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD%20(Screenplay)-2E8B57?style=flat&logo=cucumber&logoColor=white)
+  ![Serenity BDD](https://img.shields.io/badge/Serenity_BDD_Screenplay-2E8B57?style=flat&logo=cucumber&logoColor=white)
   ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
 ## 🌍 Hello World!!
 
